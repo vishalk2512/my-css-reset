@@ -89,6 +89,7 @@
       "  line-height: 1.5;",
       "  -webkit-font-smoothing: antialiased;",
       "  text-rendering: optimizeSpeed;",
+      "  font-size: 1.6rem;",
       "}"
     ],
     "description": "My CSS Reset"
