@@ -13,4 +13,4 @@
 3. Search for `css` and open `css.json`
 4. Paste [this json](./css.json) in your `css.json`
 5. Your snippet is ready.👍
-6. Write `cssr` in any `.css stylesheets`. It automatically pastes the reset style.
+6. Write `cssr` in any `.css stylesheets`.
